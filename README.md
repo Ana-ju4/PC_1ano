@@ -1,2 +1,2 @@
-# PC_1ano
+# PC_1ano - Diretorio para matéria "Pensamento computacional"
 Não sei
